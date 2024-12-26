@@ -1,0 +1,14 @@
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\bin\Debug\net9.0\hypotenuseCalculator.exe
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\bin\Debug\net9.0\hypotenuseCalculator.deps.json
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\bin\Debug\net9.0\hypotenuseCalculator.runtimeconfig.json
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\bin\Debug\net9.0\hypotenuseCalculator.dll
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\bin\Debug\net9.0\hypotenuseCalculator.pdb
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.AssemblyInfoInputs.cache
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.AssemblyInfo.cs
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.dll
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\refint\hypotenuseCalculator.dll
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.pdb
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\hypotenuseCalculator.genruntimeconfig.cache
+C:\Users\VDI-User\RiderProjects\hypotenuseCalculator\hypotenuseCalculator\obj\Debug\net9.0\ref\hypotenuseCalculator.dll
