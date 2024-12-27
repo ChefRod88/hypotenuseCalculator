@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hypotenuseCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b71a505ace64af3f2d2a25436ce9fecf180974f")]
 [assembly: System.Reflection.AssemblyProductAttribute("hypotenuseCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hypotenuseCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
